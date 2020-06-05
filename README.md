@@ -9,3 +9,5 @@ I made a simple game using HTML CSS and JavaScript
 - The player can choose to 'Hold', which means that his ROUND score gets added to his GLOBAL score. After that, it's the next player's turn
 - The first player to reach 100 points on GLOBAL score wins the game
 
+#Play Here
+[https://namit-joshi.github.io/Learning-WebD-with-a-Simple-Game/](https://namit-joshi.github.io/Learning-WebD-with-a-Simple-Game/)
