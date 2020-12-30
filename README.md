@@ -10,4 +10,4 @@ I made a simple game using HTML CSS and JavaScript
 - The first player to reach 100 points on GLOBAL score wins the game.
 
 #Play Here
-[https://namit-joshi.github.io/Learning-WebD-with-a-Simple-Game/](https://namit-joshi.github.io/Simple-Dice-Game)
+[https://namit-joshi.github.io/Simple-Dice-Game/](https://namit-joshi.github.io/Simple-Dice-Game)
