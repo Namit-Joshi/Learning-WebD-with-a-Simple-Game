@@ -1,4 +1,4 @@
-# Learning-WebD-with-a-Simple-Game
+# Dice Game
 I made a simple game using HTML CSS and JavaScript 
 
 # GAME RULES:
